@@ -1,0 +1,287 @@
+[
+  {
+    "categorie": "facebook",
+    "values": [
+      {
+        "value": 1822,
+        "rate": "Arrière plan (activé)"
+      },
+      {
+        "value": 0,
+        "rate": "Arrière plan (désactivé)"
+      }
+    ]
+  },
+  {
+    "categorie": "Instagram",
+    "values": [
+      {
+        "value": 647.2151889,
+        "rate": "Arrière plan (activé)"
+      },
+      {
+        "value": 0,
+        "rate": "Arrière plan (désactivé)"
+      }
+    ]
+  },
+  {
+    "categorie": "Whatsapp",
+    "values": [
+      {
+        "value": 186,
+        "rate": "Arrière plan (activé)"
+      },
+      {
+        "value": 0.032,
+        "rate": "Arrière plan (désactivé)"
+      }
+    ]
+  },
+  {
+    "categorie": "Gmail",
+    "values": [
+      {
+        "value": 1577.5,
+        "rate": "Arrière plan (activé)"
+      },
+      {
+        "value": 0,
+        "rate": "Arrière plan (désactivé)"
+      }
+    ]
+  },
+{
+    "categorie": "Youtube",
+    "values": [
+      {
+        "value": 435.75,
+        "rate": "Arrière plan (activé)"
+      },
+      {
+        "value": 0,
+        "rate": "Arrière plan (désactivé)"
+      }
+    ]
+  },
+{
+    "categorie": "Chrome/Safari",
+    "values": [
+      {
+        "value": 91,
+        "rate": "Arrière plan (activé)"
+      },
+      {
+        "value": 0,
+        "rate": "Arrière plan (désactivé)"
+      }
+    ]
+  },
+{
+    "categorie": "AppBanque",
+    "values": [
+      {
+        "value": 70,
+        "rate": "Arrière plan (activé)"
+      },
+      {
+        "value": 8.7,
+        "rate": "Arrière plan (désactivé)"
+      }
+    ]
+  },
+{
+    "categorie": "Messenger",
+    "values": [
+      {
+        "value": 1920,
+        "rate": "Arrière plan (activé)"
+      },
+      {
+        "value": 0.104,
+        "rate": "Arrière plan (désactivé)"
+      }
+    ]
+  },
+{
+    "categorie": "Viber",
+    "values": [
+      {
+        "value": 1000,
+        "rate": "Arrière plan (activé)"
+      },
+      {
+        "value": 0,
+        "rate": "Arrière plan (désactivé)"
+      }
+    ]
+  },
+{
+    "categorie": "Agenda",
+    "values": [
+      {
+        "value": 400,
+        "rate": "Arrière plan (activé)"
+      },
+      {
+        "value": 0,
+        "rate": "Arrière plan (désactivé)"
+      }
+    ]
+  },
+{
+    "categorie": "Linkedin",
+    "values": [
+      {
+        "value": 29.88,
+        "rate": "Arrière plan (activé)"
+      },
+      {
+        "value": 0,
+        "rate": "Arrière plan (désactivé)"
+      }
+    ]
+  },
+{
+    "categorie": "Blablabus",
+    "values": [
+      {
+        "value": 1.5,
+        "rate": "Arrière plan (activé)"
+      },
+      {
+        "value": 0,
+        "rate": "Arrière plan (désactivé)"
+      }
+    ]
+  },
+{
+    "categorie": "TCL",
+    "values": [
+      {
+        "value": 1.3,
+        "rate": "Arrière plan (activé)"
+      },
+      {
+        "value": 0,
+        "rate": "Arrière plan (désactivé)"
+      }
+    ]
+  },
+{
+    "categorie": "Affluences",
+    "values": [
+      {
+        "value": 7.1,
+        "rate": "Arrière plan (activé)"
+      },
+      {
+        "value": 0,
+        "rate": "Arrière plan (désactivé)"
+      }
+    ]
+  },
+{
+    "categorie": "Maps",
+    "values": [
+      {
+        "value": 46,
+        "rate": "Arrière plan (activé)"
+      },
+      {
+        "value": 29.6,
+        "rate": "Arrière plan (désactivé)"
+      }
+    ]
+  },{
+    "categorie": "Téléphone",
+    "values": [
+      {
+        "value": 49,
+        "rate": "Arrière plan (activé)"
+      },
+      {
+        "value": 0,
+        "rate": "Arrière plan (désactivé)"
+      }
+    ]
+  },
+{
+    "categorie": "Messages",
+    "values": [
+      {
+        "value": 57,
+        "rate": "Arrière plan (activé)"
+      },
+      {
+        "value": 38,
+        "rate": "Arrière plan (désactivé)"
+      }
+    ]
+  },
+{
+    "categorie": "Snapchat",
+    "values": [
+      {
+        "value": 291,
+        "rate": "Arrière plan (activé)"
+      },
+      {
+        "value": 0,
+        "rate": "Arrière plan (désactivé)"
+      }
+    ]
+  },
+{
+    "categorie": "Musique",
+    "values": [
+      {
+        "value": 182,
+        "rate": "Arrière plan (activé)"
+      },
+      {
+        "value": 0,
+        "rate": "Arrière plan (désactivé)"
+      }
+    ]
+  },
+{
+    "categorie": "Météo",
+    "values": [
+      {
+        "value": 351,
+        "rate": "Arrière plan (activé)"
+      },
+      {
+        "value": 26.7,
+        "rate": "Arrière plan (désactivé)"
+      }
+    ]
+  },
+{
+    "categorie": "Photos",
+    "values": [
+      {
+        "value": 90,
+        "rate": "Arrière plan (activé)"
+      },
+      {
+        "value": 0,
+        "rate": "Arrière plan (désactivé)"
+      }
+    ]
+  },
+{
+    "categorie": "AppStore/PlayStore",
+    "values": [
+      {
+        "value": 107,
+        "rate": "Arrière plan (activé)"
+      },
+      {
+        "value": 0,
+        "rate": "Arrière plan (désactivé)"
+      }
+    ]
+  }
+]
